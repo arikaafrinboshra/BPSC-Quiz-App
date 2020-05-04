@@ -7,7 +7,7 @@ knowledge. if the answer is correct, score is incremented by four and no negativ
 ---
 
 
-###Project Objective:
+### Project Objective:
 1. To help the users for the preparation of necessary educational purposes regarding the BCS exam.
 2. To organise the study materials of the BCS candidates.
 3. To make the preparation affordable for everyone as it is a free app.
@@ -18,7 +18,7 @@ an instructor, which saves money and time.
 
 ---
 
-###System Requirement:
+### System Requirement:
 1.Technical Specification: 
 a.OS: iOS
 b.Programming language: Swift, ASP.NET c.Frontend: Storyboard, JSON
@@ -41,7 +41,7 @@ c.Swagger
 ----
 
 
-###Storyboard Page:
+### Storyboard Page:
 There are several Storyboard Page is used to in main program as user interface. They are:
 1.Main
 2.Sign In
