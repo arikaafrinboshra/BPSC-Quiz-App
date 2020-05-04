@@ -1,1 +1,4 @@
 # BPSC-Quiz-App
+
+BPCS QUIZ app is an application developed to conduct a quiz based on time constraints. In BPCS QUIZ app it is accessed by entering the user name and password which is added to the database. Before start of the quiz, the rules and regulations are displayed that includes description of the time limit, number of questions to be answered and scoring methods. Quiz is started by displaying one question with four options each based on general
+knowledge. if the answer is correct, score is incremented by four and no negative marks for wrong answers. If the time exceeds 20secs next question will come automatically after giving few limited question's answer quiz application will finally direct you to the score page. Final score will be displayed and updated in the database with username.
