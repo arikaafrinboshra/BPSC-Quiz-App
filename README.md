@@ -67,15 +67,13 @@ Splash Screen:
 
 <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
 
-
-
 That splash screen, including an illustration, appears instantly when your app starts up and is quickly replaced with the app's first screen, giving the impression that your app is fast and responsive. A splash screen storyboard is also used here.
 
 
 
  Sign In:
  
- 
+ <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Sign%20In.png" height="600"/>
  
 This is the login page of the BPCS QUIZ App, It contains a signin action button,Â textfield & password field for data input. The textfield is for user name and the password is for password. There is also a forget password option to change the password if the user forgets the password. Users will complete sign in from here. There is also an option for signup for the new user. A storyboard and navigation controller areÂ also used for this page here.
 
