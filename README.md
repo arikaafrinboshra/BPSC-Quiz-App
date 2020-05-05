@@ -63,35 +63,35 @@ There are various approach for software development. Various model is used acros
 ### Screenshot of The App: 
 
 
-Splash Screen:
+**Splash Screen:**
 
 <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
 
 That splash screen, including an illustration, appears instantly when your app starts up and is quickly replaced with the app's first screen, giving the impression that your app is fast and responsive. A splash screen storyboard is also used here.
 
 
-*Sign In:*
+**Sign In:**
  
  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Sign%20In.png" height="600"/>
  
 This is the login page of the BPCS QUIZ App, It contains a signin action button,Â textfield & password field for data input. The textfield is for user name and the password is for password. There is also a forget password option to change the password if the user forgets the password. Users will complete sign in from here. There is also an option for signup for the new user. A storyboard and navigation controller areÂ also used for this page here.
 
 
-Sign Up:
+**Sign Up:**
 
  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Sign%20Up.png" height="600"/>
 
 This is the sign up page of the BPCS QUIZ App. It contains a signup action button at the bottom of the page and some textfields for data input. The text fields are for username, email address and password. For those who already have an account there is a sign in option. Users will complete sign upÂ from here. A storyboard and navigation controller are also used for this page here.
 
 
-Home Page:
+**Home Page:**
 
  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Home.png" height="600"/>
 
 This is the home page of the BPSC Quiz app. If the user selects the home option of the bottom navigation, this screen appears. There is a banner image at the top with some text on it. Then there is a list of all previous BCS exams serially. Users have to select one to see all the questions.
 
 
-Quiz List Page:
+**Quiz List Page:**
 
  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Quiz.png" height="600"/>
 
@@ -99,14 +99,14 @@ This is the quiz list page of the BPSC QUIZ app. When the user selects the quiz 
 
 
 
- Quiz Test Page:
+ **Quiz Test Page:**
  
   <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Quiz%20Test%20Page.png" height="600"/>
  
  After clicking on a specific quiz user will see this page which includes some questions along with 4 individual answers. Users have to choose the correct answer among all the four answers. Users have to scroll down to answer all the questions one by one. After answering all of the questions, the user will see a submit button at the bottom. After finishing the test users have to press the submit button to proceed. AÂ storyboard and navigation controller are also used for this page here.
  
  
- Result:
+ **Result:**
  
   <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Result.png" height="600"/>
  
@@ -114,7 +114,7 @@ This is the result page of the BPSC Quiz app. After completing the quiz question
  
  
  
-  Correct Answer:
+ **Correct Answer:**
  
   <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Correct%20Answer.png" height="600"/>
  
@@ -122,14 +122,14 @@ This is the result page of the BPSC Quiz app. After completing the quiz question
 
 
 
-Profile:
+**Profile:**
 
  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Profile.png" height="600"/> 
  
  This is the profile page. If a user selects the profile of the bottom navigation this screen appears. At the top there is a circled image section of the user. By tapping on the camera icon, the user can change the image. After that name and address of the user has been shown. Then there is the phone number, email address and edit profile icon. After thatÂ there is the progress percentage of each quiz test the user has attended. And there is also a Logout option at the top of the page.
 
 
-Edit Profile:
+**Edit Profile:**
 
  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Edit%20Profile%201.png" height="600"/>     <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Edit%20Profile%202.png" height="600"/>
 
@@ -137,7 +137,7 @@ This is the edit profile page. This page includes some textfields and action but
 
 
 
- E-R Diagram of The Project:
+### E-R Diagram of The Project:
 E-R Diagram means entity relationship diagram which represents how each entity is relates to each other. Lets take a look on the E-R Diagram of our app:
 
 
