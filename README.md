@@ -70,8 +70,7 @@ Splash Screen:
 That splash screen, including an illustration, appears instantly when your app starts up and is quickly replaced with the app's first screen, giving the impression that your app is fast and responsive. A splash screen storyboard is also used here.
 
 
-
- ##### Sign In:
+* Sign In: *
  
  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Sign%20In.png" height="600"/>
  
