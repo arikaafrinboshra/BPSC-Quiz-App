@@ -65,6 +65,7 @@ There are various approach for software development. Various model is used acros
 
 Splash Screen:
 
+<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
 
 
 
