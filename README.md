@@ -19,11 +19,11 @@ an instructor, which saves money and time.
 ---
 
 ### System Requirement:
-1.Technical Specification: 
-a.OS: iOS
-b.Programming language: Swift, ASP.NET c.Frontend: Storyboard, JSON
-d.Backend: Open API
-e.Database: ASP.NET
+1. Technical Specification: 
+   a.OS: iOS
+   b.Programming language: Swift, ASP.NET c.Frontend: Storyboard, JSON
+   d.Backend: Open API
+   e.Database: ASP.NET
 2.User System Requirement: 
 a.iOS version 13 up
 b.Internet Connectivity c.512MB RAM
@@ -36,18 +36,6 @@ c.Hosting
 a.XCode
 b.ASP.NET 
 c.Swagger
-
-
-----
-
-
-### Storyboard Page:
-There are several Storyboard Page is used to in main program as user interface. They are:
-1.Main
-2.Sign In
-3.Sign Up 4.Home
-5.Pdf View 6.Quiz List 7.Quiz Test 8.Result 9.Correct Answer 10.Profile
-11.Edit Profile
 
 
 ---
@@ -108,7 +96,7 @@ This is the quiz list page of the BPSC QUIZ app. When the user selects the quiz 
  
  **Result:**
  
-  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Result.png" height="600"/>
+ <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Result.png" height="600"/>
  
 This is the result page of the BPSC Quiz app. After completing the quiz questions this popup screen will appear. This mainly shows the result of the quiz test. Total number, current number and a progress bar will be shown based on the marks. There is a OK action button that will take the user to the correct answer page.
  
@@ -140,6 +128,7 @@ This is the edit profile page. This page includes some textfields and action but
 ### E-R Diagram of The Project:
 E-R Diagram means entity relationship diagram which represents how each entity is relates to each other. Lets take a look on the E-R Diagram of our app:
 
+<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/ER%20Diagram.png" height="600"/>
 
 
 ### Limitation:
