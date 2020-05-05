@@ -132,8 +132,7 @@ Profile:
 
 Edit Profile:
 
- <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Edit%20Profile%201.png" height="600"/>
-  <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Edit%20Profile%202.png" height="600"/>
+ <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Edit%20Profile%201.png" height="600"/> <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Edit%20Profile%202.png" height="600"/>
 
 This is the edit profile page. This page includes some textfields and action buttons. And at the top there is an option for changing the image , name and address. Here the user can edit all his information and there is also an option for changing password. There are two action buttons . One is “Update Profile” and another “Save Changes”. After editing the personal information user will update profile and after changing the password user has to press save changes. A storyboard and navigation controller are also used for this page here.
 
