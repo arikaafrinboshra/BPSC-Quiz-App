@@ -1,5 +1,5 @@
 # BPSC-Quiz-App
-It's a short project for ITC ministry of Bangladesh under Game and Application Development which is a complete processh of your preparation for Bangladesh Public Service Commission (BPSC) exams. It was a group project. @github/Bmabdullah and @github/fahimrahmanbooom have their valuable contribution in this project.
+It's a short project for ITC ministry of Bangladesh under Game and Application Development which is a complete processh of your preparation for Bangladesh Public Service Commission (BPSC) exams. It was a group project. @Bmabdullah and @fahimrahmanbooom have their valuable contribution in this project.
 
 BPCS QUIZ app is an application developed to conduct a quiz based on time constraints. In BPCS QUIZ app it is accessed by entering the user name and password which is added to the database. Quiz is started by displaying one question with four options each based on general knowledge. if the answer is correct, score is incremented by four and no negative marks for wrong answers. Final score will be displayed and updated in the database with username.
 
