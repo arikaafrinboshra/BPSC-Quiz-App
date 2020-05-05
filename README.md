@@ -24,18 +24,18 @@ an instructor, which saves money and time.
    - Programming language: Swift, ASP.NET c.Frontend: Storyboard, JSON
    - Backend: Open API
    - Database: ASP.NET
-2.User System Requirement: 
-a.iOS version 13 up
-b.Internet Connectivity c.512MB RAM
-3.Back End Support:
-a.Server: Microsoft-IIS/8.5
+2. User System Requirement: 
+   - iOS version 13 up
+   - Internet Connectivity c.512MB RAM
+3. Back End Support:
+   - Server: Microsoft-IIS/8.5
 x-powered-by: ASP.NET 
-b.Domain
-c.Hosting
-4.Development Tools: 
-a.XCode
-b.ASP.NET 
-c.Swagger
+   - Domain
+   - Hosting
+4. Development Tools: 
+   - XCode
+   - ASP.NET 
+   - Swagger
 
 
 ---
