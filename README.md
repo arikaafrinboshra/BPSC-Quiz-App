@@ -1,5 +1,5 @@
 # BPSC-Quiz-App
-It's a short project powered by <a href="https://ictd.gov.bd">ITC Division</a> and <a href="https://bangladesh.gov.bd/index.php">Digital Bangladesh</a> which is conducted by <a href="https://brainstation-23.com">Brain Station 23</a>, <a href="http://www.dream71.com">Dream 71</a>, <a href="https://www.primetechbd.com">Prime Tech</a> and <a href="https://inflack.com">Inflack</a> under <a href="http://www.gameapp.gov.bd">Skill Development for Mobile Game & Application</a> which is a complete process of your preparation for Bangladesh Public Service Commission (BPSC) exams. It was a group project. <a href="https://github.com/Bmabdullah">Al Mustakim</a> and <a href="https://github.com/fahimrahmanbooom">Fahim Rahman</a> have their valuable contribution in this project.
+It's a short project powered by <a href="https://ictd.gov.bd">ITC Division</a> and <a href="https://bangladesh.gov.bd/index.php">Digital Bangladesh</a> which is conducted by <a href="https://brainstation-23.com">Brain Station 23</a>, <a href="http://www.dream71.com">Dream 71</a>, <a href="https://www.primetechbd.com">Prime Tech</a> and <a href="https://inflack.com">Inflack</a> under <a href="http://www.gameapp.gov.bd">Skill Development for Mobile Game & Application</a> that is a complete process of your preparation for Bangladesh Public Service Commission (BPSC) exams. It was a group project. <a href="https://github.com/Bmabdullah">Al Mustakim</a>, <a href="https://github.com/fahimrahmanbooom">Fahim Rahman</a> and <a href="https://github.com/AlAbidAB">S.K. Al-Abid</a> have their valuable contribution in this project. This project was supervised by <a href="https://github.com/abdullah1107">Muhammad Abdullah Al Mamun</a>.
 
 BPCS QUIZ app is an application developed to conduct a quiz based on time constraints. In BPCS QUIZ app it is accessed by entering the user name and password which is added to the database. Quiz is started by displaying one question with four options each based on general knowledge. if the answer is correct, score is incremented by four and no negative marks for wrong answers. Final score will be displayed and updated in the database with username.
 
@@ -122,18 +122,21 @@ This is the result page of the BPSC Quiz app. After completing the quiz question
 
 This is the edit profile page. This page includes some textfields and action buttons. And at the top there is an option for changing the image , name and address. Here the user can edit all his information and there is also an option for changing password. There are two action buttons . One is “Update Profile” and another “Save Changes”. After editing the personal information user will update profile and after changing the password user has to press save changes. A storyboard and navigation controller are also used for this page here.
 
-
+---
 
 ### E-R Diagram of The Project:
 E-R Diagram means entity relationship diagram which represents how each entity is relates to each other. Lets take a look on the E-R Diagram of our app:
 
 <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/ER%20Diagram.png" height="600"/>
 
+---
 
 ### Limitation:
 There are some limitation in our project. Such as : Limited free library support.
 Limitation to get real Data
 Can’t run without internet access
+
+---
 
 
 ### Future Plan:
@@ -141,7 +144,7 @@ Improving the features and reducing the limitations are the main plan. There are
 Create a quiz war between all the users. Generate a ranking list.
 Make a challenge for earning score.
 
-
+---
 
 ### Conclusion:
 The main purpose of our project is to develop an application that offers new aspects of learning and improving knowledge in educational area. Most of the available apps are entertainment-based, which mostly do not contribute to the academic enhancement of the students. The theme of our BPCS QUIZ app is to provide user to practice for subjective tests conducted on national level, so in this app we focus on BCS Preliminary examination. This BPCS QUIZ app is useful for the preparation of BCS Preliminary test. These functions can be used only once by a user.
