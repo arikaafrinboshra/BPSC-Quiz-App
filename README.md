@@ -20,12 +20,14 @@ an instructor, which saves money and time.
 ### System Requirement:
 1. Technical Specification: 
    - OS: iOS
-   - Programming language: Swift, ASP.NET c.Frontend: Storyboard, JSON
+   - Programming language: Swift, ASP.NET 
+   - Frontend: Storyboard, JSON
    - Backend: Open API
    - Database: ASP.NET
 2. User System Requirement: 
    - iOS version 13 up
-   - Internet Connectivity c.512MB RAM
+   - Internet Connectivity 
+   - 512MB RAM
 3. Back End Support:
    - Server: Microsoft-IIS/8.5
 x-powered-by: ASP.NET 
